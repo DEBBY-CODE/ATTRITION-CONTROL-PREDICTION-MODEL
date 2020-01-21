@@ -12,6 +12,5 @@ The data is for company X which is trying to control attrition. There are two se
 * Whether the employee has left
  
 **Objective**
-1. What type of employees are leaving?
-2. Predict From Existing employees, which employees are prone to leave next. 
+1. Develop a machine learning algorithm to predict From Existing employees, which employees are prone to leave next, following sound Data science principles, Data analysis and visulaization techniques.
 
